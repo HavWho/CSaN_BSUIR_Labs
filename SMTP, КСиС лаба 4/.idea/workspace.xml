@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f1cc8d1-6247-490c-9cc9-43b4364da17c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qA3XZXPlU3UVGvy9mliljjW8d6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/commons-lang-2.4.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="SMTP KSIS 4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="activation.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$APPLICATION_HOME_DIR$/lib/activation.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="javax.mail.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$APPLICATION_HOME_DIR$/lib/javax.mail.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log4j.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$APPLICATION_HOME_DIR$/lib/log4j.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.activation.jar" />
+      <item itemvalue="JAR Application.javax.mail.jar" />
+      <item itemvalue="JAR Application.log4j.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1cc8d1-6247-490c-9cc9-43b4364da17c" name="Default Changelist" comment="" />
+      <created>1616508608018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616508608018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="54" key="#activation.jar" timestamp="1616511592842">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="496" y="54" key="#activation.jar/0.0.1536.832@0.0.1536.832" timestamp="1616511592842" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617782462798">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1617782462798" />
+    <state x="496" y="54" key="#javax.mail.jar" timestamp="1616511577069">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="496" y="54" key="#javax.mail.jar/0.0.1536.832@0.0.1536.832" timestamp="1616511577069" />
+    <state x="496" y="54" key="#log4j.jar" timestamp="1616517226184">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="496" y="54" key="#log4j.jar/0.0.1536.832@0.0.1536.832" timestamp="1616517226184" />
+    <state x="577" y="172" key="FileChooserDialogImpl" timestamp="1617707088968">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="577" y="172" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1617707088968" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1617797851101">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1617797851101" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1617797851101">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1617797851101" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1617797851101">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1617797851101" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1617797851101">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1617797851101" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1616517592492">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.832@0.0.1536.832" timestamp="1616517592492" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1616517592492">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.832@0.0.1536.832" timestamp="1616517592492" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1616517592492">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.832@0.0.1536.832" timestamp="1616517592492" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1616517592492">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.832@0.0.1536.832" timestamp="1616517592492" />
+    <state x="337" y="0" key="SettingsEditor" timestamp="1617707093877">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="337" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1617707093877" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1616514073176">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1616514073176" />
+  </component>
+</project>

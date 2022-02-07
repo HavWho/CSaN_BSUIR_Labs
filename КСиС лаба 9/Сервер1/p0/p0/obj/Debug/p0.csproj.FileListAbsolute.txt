@@ -1,0 +1,28 @@
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.exe.config
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\bin\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба5\Сервер\p0\p0\obj\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.exe.config
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.pdb
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.csprojResolveAssemblyReference.cache
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.exe
+C:\2курс2сем\КСИС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.pdb
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.exe.config
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.exe
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\bin\Debug\p0.pdb
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.exe
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.pdb
+C:\Лабораторные\4 сем\КСиС\Лаба7\Сервер1\p0\p0\obj\Debug\p0.csprojAssemblyReference.cache
+D:\Ксис\9\Сервер1\p0\p0\bin\Debug\p0.exe.config
+D:\Ксис\9\Сервер1\p0\p0\bin\Debug\p0.exe
+D:\Ксис\9\Сервер1\p0\p0\bin\Debug\p0.pdb
+D:\Ксис\9\Сервер1\p0\p0\obj\Debug\p0.csprojAssemblyReference.cache
+D:\Ксис\9\Сервер1\p0\p0\obj\Debug\p0.csproj.CoreCompileInputs.cache
+D:\Ксис\9\Сервер1\p0\p0\obj\Debug\p0.exe
+D:\Ксис\9\Сервер1\p0\p0\obj\Debug\p0.pdb
